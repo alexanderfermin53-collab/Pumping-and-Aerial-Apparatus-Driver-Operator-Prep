@@ -1,0 +1,5 @@
+{
+  "_note": "Corrections applied on top of the quiz each time the page loads. Match a question by its chapter and its exact current question text (the 'q' field). REMOVE deletes it; EDIT overwrites only the fields you list in 'set'. Edit this file on GitHub and commit — changes go live on the next visit. Examples: remove -> {\"chapter\":8,\"q\":\"full question text here\"} ; fix an answer -> {\"chapter\":8,\"q\":\"full question text here\",\"set\":{\"correct\":2}} ; fix wording -> {\"chapter\":8,\"q\":\"old question text\",\"set\":{\"q\":\"new question text\"}}. correct is a 0-based index into options.",
+  "remove": [],
+  "edit": []
+}
